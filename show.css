@@ -1,0 +1,24 @@
+.c1{
+    width: 200px;
+    outline: none;
+    border: none;
+}
+.c2{
+    color: firebrick;
+    text-shadow: 1px 1px 6px rgb(95, 91, 91);
+    font-weight: 500;
+}
+
+#seearchbar{
+    width: max-content;
+    padding: 2px;
+    border-radius: 5px;
+    border:none;
+    box-shadow: 0px 0px 3px blue;
+}
+.c3{
+    display: flex;
+    column-gap: 10px;
+    width: max-content;
+    margin: auto;
+}

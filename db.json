@@ -1,0 +1,56 @@
+{
+  "customer": [
+    {
+      "name": "cjc",
+      "email": "cjc@gmail.com",
+      "pickup": "pune",
+      "destination": "pune",
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "zip": "441911",
+      "contact": "234567864",
+      "date": "2024-01-22",
+      "time": "10:30",
+      "id": "1"
+    },
+    {
+      "name": "swati",
+      "email": "swati@gmail.com",
+      "pickup": "tirora",
+      "destination": "pune",
+      "city": "nagpur",
+      "state": "Maharashtra",
+      "zip": "441911",
+      "contact": "1234567876543",
+      "date": "2024-01-22",
+      "time": "10:21",
+      "id": "2"
+    },
+    {
+      "name": "abc",
+      "email": "abc@gmail.com",
+      "pickup": "pune",
+      "destination": "nagpur",
+      "city": "nagpur",
+      "state": "Maharashtra",
+      "zip": "441911",
+      "contact": "234567890",
+      "date": "2024-01-19",
+      "time": "07:00",
+      "id": "3"
+    },
+    {
+      "name": "klm",
+      "email": "klm@gmail.com",
+      "pickup": "gondia",
+      "destination": "Tirora",
+      "city": "nagpur",
+      "state": "Maharashtra",
+      "zip": "441911",
+      "contact": "234567890",
+      "date": "2024-01-22",
+      "time": "09:53",
+      "id": "4"
+    }
+  ]
+}
